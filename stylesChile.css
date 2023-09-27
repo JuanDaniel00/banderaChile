@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+
+.bandera{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap
+}
+
+.azul{
+    width: 30vw;
+    height: 50vh;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    background-color: #0036A7;
+}
+
+.estrella{
+    width: 40%;
+}
+
+.blanco{
+    width: 70vw;
+    height: 50vh;
+    background-color: #FFFFFF;     
+}
+
+.rojo{
+    width: 100vw;
+    height: 50vh;
+    background-color: #D82719;     
+}
